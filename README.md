@@ -1,1 +1,2 @@
-Wedo Live     ويدو لايف
+ويدو لايف عربي
+Wedo Live Arabic
